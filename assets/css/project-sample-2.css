@@ -1,7 +1,7 @@
 /* ==== BROWSER RESETS  ==== */
 * { box-sizing: border-box; padding: 0; margin: 0 }
 body, html { height: 100% }
-body { max-width: 1600px; margin: 0 auto}
+body { max-width: 3840px; margin: 0 auto}
 
 
 /* ==== UTILITY CLASS  ==== */
