@@ -275,7 +275,7 @@ body { font-family: sans-serif }
 
 	/*== Light desktop menu == */
 	.menu-desktop-light { background-color: #d7edff }
-	.menu-desktop-light .item-menu ul li a { color: #500294 }
+	.menu-desktop-light .item-menu ul li a { color: #1e266d; }
 
 	.menu-desktop-light .item-menu ul li a:hover,
 	.menu-desktop-light .item-menu ul li a:active {
