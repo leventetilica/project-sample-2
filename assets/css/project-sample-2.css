@@ -217,6 +217,7 @@ body { font-family: sans-serif }
 	.container-menu-desktop .item-menu ul li a { 
 		text-decoration: none;
 		font-weight:normal;
+		color:#1e266d;
 		font-size: calc(14px + (19 - 14) * ((100vw - 320px)/(1600 - 320)))
 	}
 
@@ -239,7 +240,7 @@ body { font-family: sans-serif }
 	.container-menu-desktop .item-menu ul li a.btn-solid:hover, 
 	.container-menu-desktop .item-menu ul li a.btn-solid:active { 
 		text-decoration: none;
-		background-color: #500294;
+		background-color: #1e266d;
 		color:#fff;
 	}
 
@@ -309,7 +310,7 @@ body { font-family: sans-serif }
 
 .hero-block-9 h1, .hero-block-9 h2 {
 	text-align: left;
-	color: #500294;
+	color: #1e266d;
 	font-weight: bold;
 	font-family: sans-serif;
 }
