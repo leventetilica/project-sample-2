@@ -40,7 +40,7 @@ body { font-family: sans-serif }
 		margin-left: 10px;
 		margin-top: 9px;
 		margin-bottom: 9px;
-		width:30%;
+		width:90px;
 	}
 
 	/* Hamburger icon */
@@ -201,7 +201,7 @@ body { font-family: sans-serif }
 	}
 
 	/* Logo */
-	.container-menu-desktop .item-logo img { display: block; margin-left: 8px; width:30%; }
+	.container-menu-desktop .item-logo img { display: block; margin-left: 8px; width:90px; }
 
 	/* Menu options */
 	.container-menu-desktop .item-menu ul { text-align: right }
