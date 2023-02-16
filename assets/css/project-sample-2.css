@@ -288,7 +288,7 @@ body { font-family: sans-serif }
 
 	.menu-desktop-light .item-menu ul li a.btn-solid:hover, 
 	.menu-desktop-light .item-menu ul li a.btn-solid:active { 
-		background-color: #500294; border-color: #500294; color: #fff;
+		background-color: transparent; border-color:  #1e266d; color:  #1e266d;
 	}
 
 	/*== Sticky desktop menu == */
